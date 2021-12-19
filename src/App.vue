@@ -98,11 +98,6 @@ export default {
           "name": "UNKNOWN",
           "status": "start"
         },
-        {
-          "slug": "001",
-          "name": "UNKNOWN",
-          "status": "failure"
-        },
       ],
       "pilots": [
         {
