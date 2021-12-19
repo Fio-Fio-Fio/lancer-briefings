@@ -98,12 +98,17 @@ export default {
           "name": "UNKNOWN",
           "status": "start"
         },
+        {
+          "slug": "001",
+          "name": "UNKNOWN",
+          "status": "failure"
+        },
       ],
       "pilots": [
         {
           "callsign": "Chariot",
           "alias": "Johanna Landon",
-          "code": "b722b21d-cc41-4792-9d7a-a36d6b5a45d8//Landon.Johanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
+          "code": "//Landon.Johanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
           "corpro": "HA",
           "frame": "Sagarmatha",
           "mech": "Forward Without Fear"
@@ -111,7 +116,7 @@ export default {
         {
           "callsign": "Carolina",
           "alias": "Dr. Lyra Vickers Jr.",
-          "code": "f6188940-66f2-4630-9baf-d04296bd0847//Lyra.Vickers:f6188940-66f2-4630-9baf-d04296bd0847//NDL-C-BLACK-ROSE",
+          "code": "//Vickers.Lyra:f6188940-66f2-4630-9baf-d04296bd0847//NDL-C-BLACK-ROSE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Ozymandias, King of Kings"
@@ -119,7 +124,7 @@ export default {
         {
           "callsign": "Strideshaker",
           "alias": 'Coralie "Coral" Richelieu',
-          "code": "2770c0df-4ef4-47d6-afab-a77eccc7a71f//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
+          "code": "//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Earthquaker"
@@ -127,7 +132,7 @@ export default {
         {
           "callsign": "Baron",
           "alias": "Trine of the 12th Chalice",
-          "code": "0260f49a-7d11-4858-94e5-7f897855a53f//Chalice.12th.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
+          "code": "//12th.Chalice.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Worst of All Possible Worlds"
@@ -135,7 +140,7 @@ export default {
         {
           "callsign": "Vixie",
           "alias": "Vinessa",
-          "code": "0fe170f0-5054-4af3-a9c4-df922b5db73a//Vinessa:0fe170f0-5054-4af3-a9c4-df922b5db73a//NDL-C-FALLEN-DREAM",
+          "code": "//Vinessa:0fe170f0-5054-4af3-a9c4-df922b5db73a//NDL-C-FALLEN-DREAM",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Clementine"
