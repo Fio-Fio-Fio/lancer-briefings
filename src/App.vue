@@ -147,10 +147,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "FOXES",
-        "headerSubtitle": "TOO MANY FOXES",
-        "subheaderTitle": "THE FLUFF",
-        "subheaderSubtitle": "THE FLUFF!!",
+        "headerTitle": "DoJ/HR",
+        "headerSubtitle": "Union Auxillary Unit A42",
+        "subheaderTitle": "Peacekeepers",
+        "subheaderSubtitle": "Mechanized Cavalry",
       },
       "options":{
         "eventsMarkdownPerMission": true
