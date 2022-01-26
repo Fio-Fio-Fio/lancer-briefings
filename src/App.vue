@@ -24,7 +24,7 @@
     <section class="section-container" id="events" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
-        <h1>Landon's Log</h1>
+        <h1>Event Log</h1>
       </div>
       <div class="section-content-container">
         <Markdown :source="events" class="markdown" />
@@ -96,7 +96,7 @@ export default {
         {
           "slug": "000",
           "name": "PRELUDE",
-          "status": "partial-success"
+          "status": "start"
         },
       ],
       "pilots": [
