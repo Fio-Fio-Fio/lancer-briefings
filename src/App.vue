@@ -143,7 +143,7 @@ export default {
       ],
       "header": {
         "planet": "Hercynia",
-        "year": "5014u | 499ay",
+        "year": "5014u/499ay",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
