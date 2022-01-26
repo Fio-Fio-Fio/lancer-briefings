@@ -95,8 +95,8 @@ export default {
       "missions": [
         {
           "slug": "000",
-          "name": "UNKNOWN",
-          "status": "start"
+          "name": "PRELUDE",
+          "status": "partial-success"
         },
       ],
       "pilots": [
