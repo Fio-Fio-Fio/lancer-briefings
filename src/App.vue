@@ -145,7 +145,7 @@ export default {
         "planet": "Hercynia",
         "year": "5014u/499ay",
         "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
+        "gate": "Atlas-Ouanoukrim",
         "ring": "Atlas-Line",
         "headerTitle": "DoJ/HR",
         "headerSubtitle": "Union Auxillary Unit A42",
