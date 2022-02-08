@@ -95,12 +95,12 @@ export default {
       "missions": [
         {
           "slug": "000",
-          "name": "PRELUDE",
+          "name": "Prelude",
           "status": "success"
         },
         {
          "slug": "001",
-         "name": "PLACEHOLDER",
+         "name": "Unregulated Scrap",
          "status": "start"
        },
       ],
