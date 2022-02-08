@@ -96,8 +96,13 @@ export default {
         {
           "slug": "000",
           "name": "PRELUDE",
-          "status": "start"
+          "status": "success"
         },
+        {
+         "slug": "001",
+         "name": "PLACEHOLDER",
+         "status": "start"
+       },
       ],
       "pilots": [
         {
