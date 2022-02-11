@@ -125,7 +125,7 @@ export default {
           "callsign": "Strideshaker",
           "alias": 'Coralie "Coral" Richelieu',
           "code": "//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
-          "corpro": "GMS",
+          "corpro": "SSC",
           "frame": "Everest",
           "mech": "Earthquaker"
         },
@@ -133,15 +133,15 @@ export default {
           "callsign": "Baron",
           "alias": "Trine of the 12th Chalice",
           "code": "//12th.Chalice.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "IPS-N",
+          "frame": "Sagarmatha",
           "mech": "Worst of All Possible Worlds"
         },
         {
           "callsign": "Vixie",
           "alias": "Vinessa",
           "code": "//Vinessa:0fe170f0-5054-4af3-a9c4-df922b5db73a//NDL-C-FALLEN-DREAM",
-          "corpro": "GMS",
+          "corpro": "SSC",
           "frame": "Everest",
           "mech": "Clementine"
         },
