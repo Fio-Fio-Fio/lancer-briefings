@@ -107,8 +107,8 @@ export default {
       "pilots": [
         {
           "callsign": "Chariot",
-          "alias": "Johanna Landon",
-          "code": "//Landon.Johanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
+          "alias": "Jóhanna Landon",
+          "code": "//Landon.Jóhanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
           "corpro": "HA",
           "frame": "Sagarmatha",
           "mech": "Forward Without Fear"
