@@ -105,7 +105,7 @@ export default {
        },
        {
          "slug": "002",
-         "name": "Evergreen Defense",
+         "name": "Vigilant Gaze",
          "status": "success"
        },
       ],
