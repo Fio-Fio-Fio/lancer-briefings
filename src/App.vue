@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
@@ -101,7 +101,12 @@ export default {
         {
          "slug": "001",
          "name": "Unregulated Scrap",
-         "status": "start"
+         "status": "success"
+       },
+       {
+         "slug": "002",
+         "name": "Vigilant Gaze",
+         "status": "success"
        },
       ],
       "pilots": [
@@ -109,32 +114,32 @@ export default {
           "callsign": "Chariot",
           "alias": "Jóhanna Landon",
           "code": "//Landon.Jóhanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
-          "corpro": "HA",
-          "frame": "Sagarmatha",
-          "mech": "Forward Without Fear"
+          "corpro": "SecComm",
+          "frame": "ENKIDU",
+          "mech": "Mourning's Knell"
         },
         {
           "callsign": "Carolina",
           "alias": "Dr. Lyra Vickers Jr.",
           "code": "//Vickers.Lyra:f6188940-66f2-4630-9baf-d04296bd0847//NDL-C-BLACK-ROSE",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Ozymandias, King of Kings"
+          "corpro": "SSC",
+          "frame": "Swallowtail",
+          "mech": "ἑλένας ἕλανδρος ἑλέπτολις"
         },
         {
           "callsign": "Strideshaker",
           "alias": 'Coralie "Coral" Richelieu',
           "code": "//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
           "corpro": "SSC",
-          "frame": "Everest",
-          "mech": "Earthquaker"
+          "frame": "MONARCH",
+          "mech": "WORLDBREAKER"
         },
         {
           "callsign": "Baron",
           "alias": "Trine of the 12th Chalice",
           "code": "//12th.Chalice.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
-          "corpro": "IPS-N",
-          "frame": "Sagarmatha",
+          "corpro": "SSC",
+          "frame": "White Witch",
           "mech": "Worst of All Possible Worlds"
         },
         {
@@ -142,8 +147,8 @@ export default {
           "alias": "Vinessa",
           "code": "//Vinessa:0fe170f0-5054-4af3-a9c4-df922b5db73a//NDL-C-FALLEN-DREAM",
           "corpro": "SSC",
-          "frame": "Everest",
-          "mech": "Clementine"
+          "frame": "Swallowtail",
+          "mech": "Smoke and Ash"
         },
       ],
       "header": {
