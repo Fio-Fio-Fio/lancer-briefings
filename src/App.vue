@@ -105,7 +105,7 @@ export default {
        },
        {
          "slug": "002",
-         "name": "Vigilant Gaze",
+         "name": "Evergreen Defense",
          "status": "success"
        },
       ],
@@ -128,7 +128,7 @@ export default {
         },
         {
           "callsign": "Strideshaker",
-          "alias": 'Coralie "Coral" Richelieu',
+          "alias": '"Coral"',
           "code": "//Richelieu.Coralie:2770c0df-4ef4-47d6-afab-a77eccc7a71f//NDL-C-DELTA-STELE",
           "corpro": "SSC",
           "frame": "MONARCH",
