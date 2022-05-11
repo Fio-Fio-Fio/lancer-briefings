@@ -1,4 +1,4 @@
-##Biography
+## Biography
 
 In the wake of the Deimos Event, NHPs became part of the of the ship, tools used to ease the many human burdens of space travel, among other things.
 
