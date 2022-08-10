@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
@@ -119,9 +119,9 @@ export default {
           "callsign": "Chariot",
           "alias": "Jóhanna Landon",
           "code": "//Landon.Jóhanna:b722b21d-cc41-4792-9d7a-a36d6b5a45d8//NDL-C-OMEGA-CRYSTAL",
-          "corpro": "SecComm",
-          "frame": "ENKIDU",
-          "mech": "Mourning's Knell"
+          "corpro": "HA",
+          "frame": "SALADIN",
+          "mech": "Armor Clad Faith"
         },
         {
           "callsign": "Carolina",
