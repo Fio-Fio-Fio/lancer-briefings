@@ -108,6 +108,11 @@ export default {
          "name": "Vigilant Gaze",
          "status": "success"
        },
+       {
+         "slug": "003",
+         "name": "Floodgate",
+         "status": "success"
+       },
       ],
       "pilots": [
         {
@@ -138,9 +143,9 @@ export default {
           "callsign": "Baron",
           "alias": "Trine of the 12th Chalice",
           "code": "//12th.Chalice.Trine:0260f49a-7d11-4858-94e5-7f897855a53f//NDL-C-FIRST-DECEMBER",
-          "corpro": "SSC",
-          "frame": "White Witch",
-          "mech": "Worst of All Possible Worlds"
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "Drive Heaven From Night"
         },
         {
           "callsign": "Vixie",
